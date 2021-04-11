@@ -1,0 +1,6 @@
+target/*
+*.idea/*
+*.iml*
+core/**/target/*
+ServerlessRepositorio/**/target/*
+ServerlessBarbearia/**/target/*
